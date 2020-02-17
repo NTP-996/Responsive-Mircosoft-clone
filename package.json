@@ -1,0 +1,18 @@
+{
+  "name": "microsoft-clone",
+  "version": "1.0.0",
+  "description": "Reresponsive mirosoft clone",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NTTMai.github.io/peter"
+  },
+  "author": "Peter",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
